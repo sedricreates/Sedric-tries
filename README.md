@@ -10,8 +10,9 @@ Welcome to **CropGuard AI**, an AI-powered app designed to help farmers, agronom
 - 💡 **AI-Powered:** Uses machine learning (TensorFlow/TFLite) for accurate recognition of multiple crop diseases.  
 - 🧩 **Modular Code:** Easy-to-understand TypeScript/JS files ready for extension and experimentation.  
 - 🛠 **Developer-Friendly:** Includes sample datasets, detection scripts, routers, dashboards, and testing modules.  
-- 🌐 **Cross-Platform:** Can be adapted for mobile or web applications.  
-
+- 🌐 **Cross-Platform:** Can be adapted for mobile or web applications.
+  
+Visit website:https://cropguardai-kqtrca4s.manus.space/
 ---
 
 ## 🗂 Project Structure
